@@ -1,16 +1,20 @@
 # Python
 
 Notes created from [Python in one video](https://www.youtube.com/watch?v=ihk_Xglr164) by [Code With Harry](https://www.youtube.com/@CodeWithHarry). This module covers:
-
-1. [Hello World](#hello-world-program)
-2. [Defining Variables](#defining-variables)
-3. [Defining Comments](#defining-comments)
-4. [Strings](#strings)
-5. [Slicing](#slicing)
-6. [Collections](#collections)
-7. [Functions](#functions)/
-8. [Classes](#classes)
-9. [Ending](#ending)
+- [Python](#python)
+  - [Hello World Program](#hello-world-program)
+  - [Defining Variables](#defining-variables)
+  - [Defining Comments](#defining-comments)
+  - [Strings](#strings)
+    - [Multiline Strings](#multiline-strings)
+    - [String Functions](#string-functions)
+  - [Slicing](#slicing)
+  - [Collections](#collections)
+      - [List functions](#list-functions)
+  - [Functions](#functions)
+  - [Classes](#classes)
+    - [Constructor](#constructor)
+  - [Ending](#ending)
 
 ## Hello World Program
 
